@@ -1,6 +1,6 @@
 {
   "name": "shrelify",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Want to shrel your life up?",
   "main": "app.js",
   "scripts": {
