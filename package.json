@@ -1,0 +1,27 @@
+{
+  "name": "shrelify",
+  "version": "1.0.0",
+  "description": "Want to shrel your life up?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danewhitfield/shrelify-npm-macOS.git"
+  },
+  "keywords": [
+    "shrelify",
+    "shrel",
+    "shrek"
+  ],
+  "author": "danewhitfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danewhitfield/shrelify-npm-macOS/issues"
+  },
+  "homepage": "https://github.com/danewhitfield/shrelify-npm-macOS#readme",
+  "dependencies": {
+    "homedir": "^0.6.0"
+  }
+}
